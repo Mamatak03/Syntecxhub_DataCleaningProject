@@ -1,0 +1,3 @@
+Loaded dataset: raw_dataset.csv
+Initial shape: (5, 4)
+Standardized column names.
